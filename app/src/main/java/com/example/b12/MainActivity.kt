@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         // hello
         // xin chào
+        // lan2
     }
 }
